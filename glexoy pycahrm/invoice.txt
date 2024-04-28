@@ -1,0 +1,3 @@
+Puto: 2 x $8 = $16
+Suman: 2 x $4 = $8
+Total: $24
